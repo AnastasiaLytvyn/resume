@@ -112,7 +112,7 @@ a.project-link:hover {
     font-size: 18px;
     line-height: 22px;
     color: #000000;
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 10px;
 }
 
@@ -130,7 +130,7 @@ a.project-link:hover {
     font-size: 14px;
     line-height: 17px;
     color: #40434E;
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 5px;
 }
 
@@ -145,4 +145,27 @@ a.project-link:hover {
     font-size: 16px;
     line-height: 24px;
     color: #595959;
+}
+
+.education {
+
+}
+
+.education-place {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #702632;
+    margin-bottom: 10px;
+}
+
+.education-speciality {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
