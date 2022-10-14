@@ -53,7 +53,7 @@ main {
 }
 
 .projects {
-
+    margin-bottom: 55px;
 }
 
 .projects-list {
@@ -93,6 +93,55 @@ a.project-link:hover {
 .project-bracket {
     font-style: normal;
     font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.work {
+    margin-bottom: 55px;
+}
+
+.work-first {
+    margin-bottom: 45px;
+}
+
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.work-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #702632;
+}
+
+.period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #40434E;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.work-list {
+    padding: 0;
+    margin-left: 20px;
+}
+
+.work-list-item {
+    font-style: normal;
+    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     color: #595959;
