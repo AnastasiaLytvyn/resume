@@ -172,12 +172,14 @@ a.project-link:hover {
 
 aside {
     background-color: #912F40;
-    width: 370px;
+    min-width: 370px;
     padding-top: 15px;
 }
 
 .photo {
     width: 310px;
+    display: block;
+    margin: auto;
     margin-bottom: 50px;
 }
 
